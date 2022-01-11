@@ -1,12 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to One Mission Network and Institute
 
-You can use the [editor on GitHub](https://github.com/ThePuzzler-OMNI/First-Vote/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+For vote results see [Vote Results](https://onemissionnetwork.com/Results)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For more about OMNI see [About OMNI](https://onemissionnetwork.com/About)
 
-### Markdown
+```markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Step 1: Setup your vote
+
+# Step 2: Invite friends
+
+# Step 3: Cast your vote
+
+```
+
+### Step 1: Setup Your Vote
+![image](https://user-images.githubusercontent.com/97518335/148935925-eb0284f9-c929-419c-8a47-d89dfad11d51.png)
+Enter your email:  ThePuzzler@OneMissionNetwork.com	(one vote per email per day, we will make this more secure over time, when I can hire good help)
+Select your country code:  1
+Select your regional code:  OH
+Select or write in the name of the country leader you want to elect: Donald Trump and Ron DeSantis
+Select or write in the name of the regional leader you want to elect: ?
+Select or write in the name of the country leader you want to depose: Ji Jin Ping
+Select or write in the name of the regional leader you want to depose: ? 
+Select the number of days to spread your vote dollars over:  100
+Select the total number of dollars to vote for your candidate: $10
+
+PAY with ???
 
 ```markdown
 Syntax highlighted code block
